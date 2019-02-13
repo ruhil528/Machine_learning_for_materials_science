@@ -1,4 +1,4 @@
-# README 
+# Extreme Learning Machine (ELM) implementation for prediction of glass properties
 
 Name of files in the directory:
 
